@@ -321,7 +321,6 @@ footer a {
 }
 
 #details {
-  display: inline-block;
   float: left;
   width: 33.33%;
   padding: 50px;
