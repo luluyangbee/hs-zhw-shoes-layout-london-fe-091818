@@ -323,7 +323,7 @@ footer a {
 .box {
   float: left;
   width: 33.33%;
-  padding: 50px;
+  padding: 0;
 }
 
 /* code examples copyright Jonathan Grover 2012 */
