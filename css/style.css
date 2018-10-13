@@ -288,6 +288,11 @@ section a {
   text-decoration: underline;
 }
 
+#archive {
+  display: inline-block;
+  width:33%;
+}
+
 .column {
   display: inline-block;
   width: 33%;
