@@ -320,7 +320,7 @@ footer a {
   text-decoration: underline;
 }
 
-#details.clearfix:after {
+#details {
   content: ".";
   display: inline-block;
   clear: both;
