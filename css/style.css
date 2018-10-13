@@ -323,9 +323,7 @@ footer a {
 #details {
   content: ".";
   display: inline-block;
-  clear: both;
-  height: 0;
-  line-height: 0;
+  float: auto;
 }
 
 /* code examples copyright Jonathan Grover 2012 */
