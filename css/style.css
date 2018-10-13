@@ -320,7 +320,7 @@ footer a {
   text-decoration: underline;
 }
 
-#details {
+.box {
   float: left;
   width: 33.33%;
   padding: 50px;
