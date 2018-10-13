@@ -321,7 +321,7 @@ footer a {
 }
 
 .details {
-  box-sizing: border box-sizing
+  box-sizing: border-box;
   float: left;
   width: 33.33%;
   padding: 50px;
