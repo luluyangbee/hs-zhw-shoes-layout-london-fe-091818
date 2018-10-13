@@ -288,6 +288,11 @@ section a {
   text-decoration: underline;
 }
 
+.column {
+  display: inline-block;
+  width: 30%;
+}
+
 /********** Footer **********/
 
 footer {
