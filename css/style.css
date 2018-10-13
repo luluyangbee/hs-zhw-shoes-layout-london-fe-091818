@@ -320,8 +320,13 @@ footer a {
   text-decoration: underline;
 }
 
-.clearbox {
-  float: top;
+.clearfix:after {
+  content: ".";
+  display: inline-block;
+  clear: both;
+  visibility: hidden;
+  height: 0;
+  line-height: 0;
 }
 
 /* code examples copyright Jonathan Grover 2012 */
