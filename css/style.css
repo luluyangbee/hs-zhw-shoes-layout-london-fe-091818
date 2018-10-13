@@ -321,7 +321,7 @@ footer a {
 }
 
 .clearbox {
-  
+  float: top;
 }
 
 /* code examples copyright Jonathan Grover 2012 */
