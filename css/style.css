@@ -290,7 +290,8 @@ section a {
 
 .column {
   display: inline-block;
-  width: 30%;
+  width: 33%;
+  padding:20px 0 20px;
 }
 
 /********** Footer **********/
