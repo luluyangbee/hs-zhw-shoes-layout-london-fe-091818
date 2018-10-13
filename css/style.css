@@ -252,6 +252,22 @@ a.gplus:active { background-position: -80px -80px; }
   padding: 30px 0;
 }
 
+#featured {
+  display: inline-block;
+  width:66%;
+}
+
+#archive {
+  display: inline-block;
+  width:33%;
+}
+
+.column {
+  display: inline-block;
+  width: 33%;
+  padding:20px 0 20px;
+}
+
 /********** Sections **********/
 
 section {
@@ -288,6 +304,8 @@ section a {
   text-decoration: underline;
 }
 
+
+
 /********** Footer **********/
 
 footer {
@@ -300,6 +318,12 @@ footer {
 footer a {
   color: #555;
   text-decoration: underline;
+}
+
+.box {
+  float: left;
+  width: 33.33%;
+  padding: 0;
 }
 
 /* code examples copyright Jonathan Grover 2012 */
